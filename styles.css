@@ -40,7 +40,7 @@ a:active{
     font-size:0px;
 }
 .small-info{
-    font-size:11px;
+    font-size:10px;
     padding-bottom:3px;
 }
 div.sticky {
@@ -48,7 +48,7 @@ div.sticky {
   position: sticky;
   bottom: 0;
     left:0;
-    font-size:11px;
+    font-size:10px;
     text-align: left;
     background-color:#FFFFFF;
 }
